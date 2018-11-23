@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	mux "github.com/gorilla/mux"
+	"github.com/gorilla/mux"
 )
 
 func main() {
